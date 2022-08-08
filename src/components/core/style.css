@@ -1,0 +1,40 @@
+.bold-20-fam1 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+}
+.regular-30-fam2 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+}
+.bold-30-fam2 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+}
+.txt-primary {
+  color: #f5f5f5;
+}
+.txt-secondary {
+  color: #ffdbbb;
+}
+.logo {
+  width: 197px;
+  height: 83px;
+}
+.mt-rt-112 {
+  margin-right: 112px;
+}
+.btn-color {
+  background: #728bad;
+}
+.btn-rad-42{
+    border-radius: 42px;
+}
