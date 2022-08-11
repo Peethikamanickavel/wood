@@ -35,6 +35,12 @@
 .btn-color {
   background: #728bad;
 }
-.btn-rad-42{
-    border-radius: 42px;
+.btn-rad-42 {
+  border-radius: 42px;
+}
+.new-font {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 90px;
+  line-height: 107.9%;
 }
